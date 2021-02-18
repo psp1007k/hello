@@ -7,3 +7,5 @@ plt.show()
 
 #modify by Mr.Liu
 print('already modify')
+
+#new mod ver1
