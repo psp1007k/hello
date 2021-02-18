@@ -6,3 +6,4 @@ plt.plot(x, np.sin(x))       # Plot the sine of each x point
 plt.show()
 
 #modify by Mr.Liu
+print('already modify')
